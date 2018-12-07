@@ -2,11 +2,11 @@
 
 MyReads is a react app that allows you to select and categorize books you have read, are currently reading, or want to read. 
 
-## TL;DR
+## Installation
 
 To install and run:
 
-* clone this repo
+* clone this Github repository `git clone  https://github.com/cbrunson/reactnd-project-myreads-starter-master.git`
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
  
