@@ -1,6 +1,6 @@
 # MyReads Project
 
-MyReads is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. 
+MyReads is a react app that allows you to select and categorize books you have read, are currently reading, or want to read. 
 
 ## TL;DR
 
@@ -12,7 +12,7 @@ To install and run:
  
 ## Backend Server
 
-This app uses a backend server. The provided file [`BooksAPI.js`](src/BooksAPI.js) contains the methods you will need to perform necessary operations on the backend:
+The provided file [`BooksAPI.js`](src/BooksAPI.js) contains the methods you will need to perform necessary operations on the backend:
 
 * [`getAll`](#getall)
 * [`update`](#update)
